@@ -25,55 +25,27 @@ git clone:https://github.com/EWoman/EWoman
 * Em tasks futuras, acredita-se que haverá a implementação de relacionamentos ao atual banco de dados (db_ewoman), assim como a elaboração do model Produtos e Usuário e a efetuação de cardinalidade entre os mesmos.
 
 ## :handshake: Colaboradores
-<table align="center">
-  <tr>
-    <td>
-      <a href="http://github.com/biancavestibulares">
-        <img src="https://avatars.githubusercontent.com/u/56259137?v=4" width="100px;" alt="Foto de Tati Alves no GitHub"/><br>
-        <sub>
-          <b>Bianca</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-  <td align="center">
-      <a href="http://github.com/devgabrielnascimento">
-        <img src="https://avatars.githubusercontent.com/u/56259137?v=4" width="100px;" alt="Foto de Tati Alves no GitHub"/><br>
-        <sub>
-          <b>Gabriel</b>
-        </sub>
-      </a>
-    </td>
-</table>
-<table>
-  <tr>
-    
-  </tr>
-</table>
-<table>
-  <tr>
-    <td align="center">
-      <a href="http://github.com/MillenaOliveiraSouza">
-        <img src="https://avatars.githubusercontent.com/u/56259137?v=4" width="100px;" alt="Foto de Tati Alves no GitHub"/><br>
-        <sub>
-          <b>Millena</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td align="center">
-      <a href="http://github.com/giolreis">
-        <img src="https://avatars.githubusercontent.com/u/56259137?v=4" width="100px;" alt="Foto de Tati Alves no GitHub"/><br>
-        <sub>
-          <b>Giovani</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-</table>
+<td align="center">
+  <a href="http://github.com/devgabrielnascimento">
+    <img src="https://avatars.githubusercontent.com/u/56259137?v=4" width="100px;" alt="Foto de Gabriel no GitHub"/><br>
+    <sub><b>Gabriel</b></sub>
+  </a>
+</td>
+
+<td align="center">
+  <a href="http://github.com/MillenaOliveiraSouza">
+    <img src="https://avatars.githubusercontent.com/u/56259137?v=4" width="100px;" alt="Foto de Millena no GitHub"/><br>
+    <sub><b>Millena</b></sub>
+  </a>
+</td>
+
+<td align="center">
+  <a href="http://github.com/giolreis">
+    <img src="https://avatars.githubusercontent.com/u/56259137?v=4" width="100px;" alt="Foto de Giovani no GitHub"/><br>
+    <sub><b>Giovani</b></sub>
+  </a>
+</td>
+
 
 ## :dart: Status do projeto
 * Até o momento, o projeto conta com organização DER do seu banco de dados, e com os estágios iniciais do sistema Spring - este que já é capaz de conectar-se com o MySQL e tem sua primeira classe model (categoria) já desenvolvida.
