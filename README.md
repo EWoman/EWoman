@@ -24,7 +24,7 @@ git clone https://github.com/EWoman/EWoman
 ## :soon: Implementação futura
 * Em tasks futuras, acredita-se que haverá a implementação de relacionamentos ao atual banco de dados (db_ewoman), assim como a elaboração do model Produtos e Usuário e a efetuação de cardinalidade entre os mesmos.
 
-## handshake: Colaboradores
+## :handshake: Colaboradores
 </head>
 <body>
 <table align="center">
