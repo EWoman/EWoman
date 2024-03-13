@@ -48,7 +48,7 @@ git clone https://github.com/EWoman/EWoman
     </td>
     <td align="center">
       <a href="http://github.com/biancavestibulares">
-        <img src="https://avatars.githubusercontent.com/u/56259137?v=4" width="100px;" alt="Foto de Gabriel no GitHub"/><br>
+        <img src="https://i.imgur.com/MAJ4x9E.jpeg" width="100px;" alt="Foto de Gabriel no GitHub"/><br>
         <sub><b>Gabriel</b></sub>
       </a>
     </td>
