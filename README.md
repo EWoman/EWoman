@@ -25,26 +25,58 @@ git clone:https://github.com/EWoman/EWoman
 * Em tasks futuras, acredita-se que haverá a implementação de relacionamentos ao atual banco de dados (db_ewoman), assim como a elaboração do model Produtos e Usuário e a efetuação de cardinalidade entre os mesmos.
 
 ## :handshake: Colaboradores
-<td align="center">
-  <a href="http://github.com/devgabrielnascimento">
-    <img src="https://avatars.githubusercontent.com/u/56259137?v=4" width="100px;" alt="Foto de Gabriel no GitHub"/><br>
-    <sub><b>Gabriel</b></sub>
-  </a>
-</td>
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Colaboradores</title>
+<style>
+  /* Estilo para alinhar verticalmente o texto dentro das células */
+  td {
+    vertical-align: middle;
+  }
+</style>
+</head>
+<body>
 
-<td align="center">
-  <a href="http://github.com/MillenaOliveiraSouza">
-    <img src="https://avatars.githubusercontent.com/u/56259137?v=4" width="100px;" alt="Foto de Millena no GitHub"/><br>
-    <sub><b>Millena</b></sub>
-  </a>
-</td>
+<h2 align="center">:handshake: Colaboradores</h2>
 
-<td align="center">
-  <a href="http://github.com/giolreis">
-    <img src="https://avatars.githubusercontent.com/u/56259137?v=4" width="100px;" alt="Foto de Giovani no GitHub"/><br>
-    <sub><b>Giovani</b></sub>
-  </a>
-</td>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="http://github.com/biancavestibulares">
+        <img src="https://avatars.githubusercontent.com/u/56259137?v=4" width="100px;" alt="Foto de Bianca no GitHub"/><br>
+        <sub><b>Bianca</b></sub>
+      </a>
+    </td>
+    
+    <td align="center">
+      <a href="http://github.com/devgabrielnascimento">
+        <img src="https://avatars.githubusercontent.com/u/56259137?v=4" width="100px;" alt="Foto de Gabriel no GitHub"/><br>
+        <sub><b>Gabriel</b></sub>
+      </a>
+    </td>
+    
+    <td align="center">
+      <a href="http://github.com/MillenaOliveiraSouza">
+        <img src="https://avatars.githubusercontent.com/u/56259137?v=4" width="100px;" alt="Foto de Millena no GitHub"/><br>
+        <sub><b>Millena</b></sub>
+      </a>
+    </td>
+    
+    <td align="center">
+      <a href="http://github.com/giolreis">
+        <img src="https://avatars.githubusercontent.com/u/56259137?v=4" width="100px;" alt="Foto de Giovani no GitHub"/><br>
+        <sub><b>Giovani</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</body>
+</html>
+
 
 
 ## :dart: Status do projeto
