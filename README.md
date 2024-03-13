@@ -3,7 +3,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/231375ce-58a3-4c3b-85c8-44ea51d1318f" width="100"> Descrição
 Escreva uma descrição do seu projeto
 
-## <p><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTRraGNnb2MycHc4d2dveDVzdGF5cmhob3p3eXhyMjBkcHJndjc2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LESpNIDaNBUcRIPzng/giphy.gif" width="50" height="50" align="left">  </p> Funcionalidades
+## <p>[Imgur](https://imgur.com/OT1B2Qy) align="left">  </p> Funcionalidades
 * <b>Funcionalidade 1</b>: O que essa funcionalidade faz?
 
 ## :wrench: Tecnologias utilizadas
