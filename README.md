@@ -4,7 +4,7 @@
 Escreva uma descrição do seu projeto
 
 ## <p><img src="https://i.imgur.com/OT1B2Qy.gif" width="28" height="28">Funcionalidades</p> 
-* <b>Funcionalidade 1</b>: O que essa funcionalidade faz?
+* <b>{c:red}Funcionalidade 1{/c}</b>: O que essa funcionalidade faz?
 
 ## :wrench: Tecnologias utilizadas
 * Tecnologia;
