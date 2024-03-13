@@ -19,7 +19,7 @@ O projeto já é capaz de executar seu database e tabela de categorias.
 
 ## :rocket: Rodando o projeto
 Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
-git clone:https://github.com/EWoman/EWoman
+git clone https://github.com/EWoman/EWoman
 
 ## :soon: Implementação futura
 * Em tasks futuras, acredita-se que haverá a implementação de relacionamentos ao atual banco de dados (db_ewoman), assim como a elaboração do model Produtos e Usuário e a efetuação de cardinalidade entre os mesmos.
