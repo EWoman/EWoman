@@ -26,12 +26,7 @@ git clone https://github.com/EWoman/EWoman
 
 ## :handshake: Colaboradores
 
-<style>
-  /* Estilo para alinhar verticalmente o texto dentro das células */
-  td {
-    vertical-align: middle;
-  }
-</style>
+
 </head>
 <body>
 
