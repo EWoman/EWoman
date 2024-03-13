@@ -50,27 +50,28 @@ git clone:https://github.com/EWoman/EWoman
         <sub><b>Bianca</b></sub>
       </a>
     </td>
-    
+    <tr>
     <td align="center">
-      <a href="http://github.com/devgabrielnascimento">
-        <img src="https://avatars.githubusercontent.com/u/56259137?v=4" width="100px;" alt="Foto de Gabriel no GitHub"/><br>
+      <a href="http://github.com/biancavestibulares">
+        <img src="https://avatars.githubusercontent.com/u/56259137?v=4" width="100px;" alt="Foto de Bianca no GitHub"/><br>
+        <sub><b>Milena</b></sub>
+      </a>
+    </td>
+    <tr>
+    <td align="center">
+      <a href="http://github.com/biancavestibulares">
+        <img src="https://avatars.githubusercontent.com/u/56259137?v=4" width="100px;" alt="Foto de Bianca no GitHub"/><br>
         <sub><b>Gabriel</b></sub>
       </a>
     </td>
-    
+    <tr>
     <td align="center">
-      <a href="http://github.com/MillenaOliveiraSouza">
-        <img src="https://avatars.githubusercontent.com/u/56259137?v=4" width="100px;" alt="Foto de Millena no GitHub"/><br>
-        <sub><b>Millena</b></sub>
-      </a>
-    </td>
-    
-    <td align="center">
-      <a href="http://github.com/giolreis">
-        <img src="https://avatars.githubusercontent.com/u/56259137?v=4" width="100px;" alt="Foto de Giovani no GitHub"/><br>
+      <a href="http://github.com/biancavestibulares">
+        <img src="https://avatars.githubusercontent.com/u/56259137?v=4" width="100px;" alt="Foto de Bianca no GitHub"/><br>
         <sub><b>Giovani</b></sub>
       </a>
     </td>
+   
   </tr>
 </table>
 
