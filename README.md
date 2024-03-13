@@ -3,7 +3,7 @@
 ## :memo: Descrição
 Escreva uma descrição do seu projeto
 
-## <p><img href="https://giphy.com/gifs/gears-setting-configure-LESpNIDaNBUcRIPzng](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTRraGNnb2MycHc4d2dveDVzdGF5cmhob3p3eXhyMjBkcHJndjc2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LESpNIDaNBUcRIPzng/giphy.gif"></img></p> Funcionalidades
+## <p><img href="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTRraGNnb2MycHc4d2dveDVzdGF5cmhob3p3eXhyMjBkcHJndjc2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LESpNIDaNBUcRIPzng/giphy.gif"></img></p> Funcionalidades
 * <b>Funcionalidade 1</b>: O que essa funcionalidade faz?
 
 ## :wrench: Tecnologias utilizadas
