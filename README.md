@@ -25,8 +25,8 @@ git clone:https://github.com/EWoman/EWoman
 * Em tasks futuras, acredita-se que haverá a implementação de relacionamentos ao atual banco de dados (db_ewoman), assim como a elaboração do model Produtos e Usuário e a efetuação de cardinalidade entre os mesmos.
 
 ## :handshake: Colaboradores
-<table>
-  <tr align="center">
+<table align="center">
+  <tr>
     <td>
       <a href="http://github.com/biancavestibulares">
         <img src="https://avatars.githubusercontent.com/u/56259137?v=4" width="100px;" alt="Foto de Tati Alves no GitHub"/><br>
