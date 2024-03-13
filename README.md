@@ -3,7 +3,7 @@
 ## :memo: Descrição
 Escreva uma descrição do seu projeto
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="25" height="25" /> Funcionalidades
+## <iframe src="https://giphy.com/embed/LESpNIDaNBUcRIPzng" width="480" height="466" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/gears-setting-configure-LESpNIDaNBUcRIPzng">via GIPHY</a></p> Funcionalidades
 * <b>Funcionalidade 1</b>: O que essa funcionalidade faz?
 
 ## :wrench: Tecnologias utilizadas
