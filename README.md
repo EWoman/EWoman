@@ -1,6 +1,6 @@
 <h1 align="center">Projeto EWoman - Classe Model</h1>
 
-## :memo: Descrição
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/231375ce-58a3-4c3b-85c8-44ea51d1318f" width="400"> Descrição
 Escreva uma descrição do seu projeto
 
 ## <p><img href="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTRraGNnb2MycHc4d2dveDVzdGF5cmhob3p3eXhyMjBkcHJndjc2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LESpNIDaNBUcRIPzng/giphy.gif"></img></p> Funcionalidades
