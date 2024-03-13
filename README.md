@@ -3,7 +3,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/231375ce-58a3-4c3b-85c8-44ea51d1318f" width="100"> Descrição
 Escreva uma descrição do seu projeto
 
-## <p><img src="https://i.imgur.com/OT1B2Qy.gif" width="25" height="25">Funcionalidades</p> 
+## <p><img src="https://i.imgur.com/OT1B2Qy.gif" width="30" height="30">Funcionalidades</p> 
 * <b>Funcionalidade 1</b>: O que essa funcionalidade faz?
 
 ## :wrench: Tecnologias utilizadas
