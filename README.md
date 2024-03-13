@@ -62,6 +62,18 @@ git clone:https://github.com/EWoman/EWoman
     </td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td align="center">
+      <a href="http://github.com/giolreis">
+        <img src="https://avatars.githubusercontent.com/u/56259137?v=4" width="100px;" alt="Foto de Tati Alves no GitHub"/><br>
+        <sub>
+          <b>Giovani</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## :dart: Status do projeto
 * Até o momento, o projeto conta com organização DER do seu banco de dados, e com os estágios iniciais do sistema Spring - este que já é capaz de conectar-se com o MySQL e tem sua primeira classe model (categoria) já desenvolvida.
