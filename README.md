@@ -41,19 +41,19 @@ git clone https://github.com/EWoman/EWoman
       </a>
     </td>
     <td align="center">
-      <a href="http://github.com/biancavestibulares">
+      <a href="https://github.com/MillenaOliveiraSouza">
         <img src="https://avatars.githubusercontent.com/u/56259137?v=4" width="100px;" alt="Foto de Milena no GitHub"/><br>
         <sub><b>Milena</b></sub>
       </a>
     </td>
     <td align="center">
-      <a href="http://github.com/biancavestibulares">
+      <a href="https://github.com/devgabrielnascimento">
         <img src="https://i.imgur.com/qlo9OUU.png" width="100px;" alt="Foto de Gabriel no GitHub"/><br>
         <sub><b>Gabriel</b></sub>
       </a>
     </td>
     <td align="center">
-      <a href="http://github.com/biancavestibulares">
+      <a href="https://github.com/giolreis">
         <img src="https://avatars.githubusercontent.com/u/56259137?v=4" width="100px;" alt="Foto de Giovani no GitHub"/><br>
         <sub><b>Giovani</b></sub>
       </a>
