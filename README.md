@@ -7,20 +7,24 @@
 
 
 ## :memo: Descrição
-Desenvolvimento do projeto Spring EWoman. O com.generation.ewoman trabalha a conexão com o banco de dados MySQL e sua primeira classe model (categoria).
-O projeto já é capaz de executar seu database e tabela de categorias.
+Desenvolvimento do projeto Spring EWoman e o CRUD do seu Spring Framework - contendo os métodos básicos findAll, findById, post, put e delete, além de findByNivel.
 
-## <p><img src="https://i.imgur.com/OT1B2Qy.gif" width="28" height="28">Funcionalidades do Projeto</p> 
-* <b>categoria </b>: Classe model, responsável por abrigar os atributos da tabela de categoria (tb_categoria) no banco de dados (db_ewoman).
-* <b>id </b>: Chave primária da tabela, é o identificador único de cada categoria.
-* <b>nome_categoria</b>: Atributo que associa um nome a cada id/categoria.
-* <b>nivel</b>: Atributo que associa a nivelagem de casa usuário.
-* <b>Métodos Getters e Setters</b>: Principal funcionalidade em garantir a encapsulação e a integridade dos dados.
-* <b>application.properties</b>: Propriedades de criação do banco de dados - db_ewoman. Estabelece a conexão MySQL.
-* <b>EWomanApplication.java</b>: Ponto de entrada para a aplicação.
+## <p><img src="https://i.imgur.com/OT1B2Qy.gif" width="28" height="28">Atributos do Projeto</p> 
+
+ **Tabela 1 - tb_categorias**
+ 
+<div align="center">
+
+| Atributo   | Descrição e motivo da escolha       | Chave       |
+| :---------- | :--------- | :---------------------------------- |
+| `id` BIGINT | Identificador único da tabela categoria | **PK** |
+| `nomeCategoria` VARCHAR(45) | Nome da categoria (nicho do ECommerce) | **NN** |
+| `nivel` VARCHAR(45) | Nível do usuário (iniciante, intermediário, avançado) | **NN** |
+
+</div>
 
 ## :wrench: Tecnologias utilizadas
-* Spring Boot, Spring Data JPA, MySQL Connector/J, Hibernate;
+* Spring Boot, Spring Data JPA, MySQL Connector/J, Hibernate, Java;
 
 ## :rocket: Rodando o projeto
 Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
@@ -64,8 +68,6 @@ git clone https://github.com/EWoman/EWoman
 </body>
 </html>
 
-
-
 ## :dart: Status do projeto
-* Até o momento, o projeto conta com organização DER do seu banco de dados, e com os estágios iniciais do sistema Spring - este que já é capaz de conectar-se com o MySQL e tem sua primeira classe model (categoria) já desenvolvida.
+* Até o momento, o projeto conta com organização DER do seu banco de dados, e com os estágios iniciais do sistema Spring - este que já é capaz de conectar-se com o MySQL e tem sua primeira classe model (categoria) já desenvolvida. Classe essa que já contém um repositório e controller (métodos CRUD - estes que são capazes de consultar, criar, atualizar e deletar).
 
