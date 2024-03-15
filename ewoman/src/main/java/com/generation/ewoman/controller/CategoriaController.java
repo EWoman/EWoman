@@ -20,7 +20,7 @@ import com.generation.ewoman.model.Categoria;
 import com.generation.ewoman.repository.CategoriaRepository;
 
 @RestController
-@RequestMapping("/categorias")
+@RequestMapping("/categorias") //Endpoint
 @CrossOrigin(origins = "*", allowedHeaders = "*")
 public class CategoriaController {
 
@@ -34,19 +34,21 @@ public class CategoriaController {
 		return ResponseEntity.ok(categorias);
 	}
 
-	//Método getById 
+	//Método getById - rastreia valores da tabela pelo ID
 	@GetMapping("/{id}")
 	public ResponseEntity<Categoria> findById(@PathVariable Long id) {
 		Optional<Categoria> categoriaOptional = categoriaRepository.findById(id);
 		return categoriaOptional.map(ResponseEntity::ok).orElseGet(() -> ResponseEntity.notFound().build());
 	}
 
+	//Método post - adiciona valores a tabela 
 	@PostMapping
     public ResponseEntity<Categoria> post(@RequestBody Categoria categoria) {
         Categoria savedCategoria = categoriaRepository.save(categoria);
         return ResponseEntity.status(HttpStatus.CREATED).body(savedCategoria);
     }
 
+	//Método put - atualiza os dados da tabela a partir do ID
 	@PutMapping("/{id}")
     public ResponseEntity<Categoria> put(@PathVariable Long id, @RequestBody Categoria categoria) {
         if (!categoriaRepository.existsById(id)) {
@@ -57,6 +59,7 @@ public class CategoriaController {
         return ResponseEntity.ok(updatedCategoria);
     }
 
+	//Método delete - deleta os dados da tabela a partir do ID
 	@DeleteMapping("/{id}")
     public ResponseEntity<Void> delete(@PathVariable Long id) {
         if (!categoriaRepository.existsById(id)) {
@@ -64,6 +67,13 @@ public class CategoriaController {
         }
         categoriaRepository.deleteById(id);
         return ResponseEntity.noContent().build();
+    }
+	
+	// Método de consulta específico para um determinado atributo (nível)
+    @GetMapping("/findByNivel/{nivel}")
+    public ResponseEntity<List<Categoria>> findByNivel(@PathVariable String nivel) {
+        List<Categoria> categorias = categoriaRepository.findAllByNivelContainingIgnoreCase(nivel);
+        return ResponseEntity.ok(categorias);
     }
 	
 }
