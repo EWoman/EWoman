@@ -8,7 +8,7 @@ import jakarta.persistence.Table;
 import jakarta.validation.constraints.NotNull;
 import jakarta.validation.constraints.Size;
 
-
+//Anotação para criar entidade tabela e nomear nome respectivamente
 @Entity
 @Table(name = "tb_categoria") //Tabela
 public class Categoria {

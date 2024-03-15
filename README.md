@@ -7,7 +7,7 @@
 
 
 ## :memo: Descrição
-Desenvolvimento do projeto Spring do EWoman. O com.generation.ewoman trabalha a conexão com o banco de dados MySQL e sua primeira classe model (categoria).
+Desenvolvimento do projeto Spring do Projeto Integrador EWoman. O com.generation.ewoman trabalha a conexão com o banco de dados MySQL e sua primeira classe model (categoria).
 O projeto já é capaz de executar seu database e tabela de categorias.
 
 ## <p><img src="https://i.imgur.com/OT1B2Qy.gif" width="28" height="28">Funcionalidades</p> 
