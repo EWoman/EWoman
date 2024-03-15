@@ -70,8 +70,6 @@ git clone https://github.com/EWoman/EWoman
 
 ## :dart: Status do projeto
 
-* Até o momento, o projeto conta com organização DER do seu banco de dados, e com os estágios iniciais do sistema Spring - este que já é capaz de conectar-se com o MySQL e tem sua primeira classe model (categoria) já desenvolvida. Classe essa que já contém um repositório e controller (métodos CRUD - estes que são capazes de consultar, criar, atualizar e deletar).
-=======
 * Nesse momento, criamos o CRUD para a classe Categoria, além de testar os métodos HTTP no Insomnia
 
 
