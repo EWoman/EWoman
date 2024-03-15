@@ -48,7 +48,8 @@ public class Categoria {
 	public String getNivel() {
 		return nivel;
 	}
-
+	
+	//Setando o nível
 	public void setNivel(String nivel) {
 		this.nivel = nivel;
 	}
