@@ -1,4 +1,4 @@
-# Projeto Integrador - Grupo 3 - Igualdade de Gênero (CRUD)
+# Projeto Integrador - Grupo 3 - Igualdade de Gênero
 <h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Medium%20Skin%20Tone.png" alt="Woman Technologist Medium Skin Tone" width="40" height="35" />E-WOMAN</h1>
 <div align="center">
   <img src="https://i.imgur.com/pryekPZ.png">
@@ -24,9 +24,7 @@ O projeto já é capaz de executar seu database e tabela de categorias.
 
 ## :rocket: Rodando o projeto
 Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
-```
 git clone https://github.com/EWoman/EWoman
-```
 
 ## :soon: Implementação futura
 * Em tasks futuras, acredita-se que haverá a implementação de relacionamentos ao atual banco de dados (db_ewoman), assim como a elaboração do model Produtos e Usuário e a efetuação de cardinalidade entre os mesmos.
@@ -69,5 +67,5 @@ git clone https://github.com/EWoman/EWoman
 
 
 ## :dart: Status do projeto
-* Nesse momento, criamos o CRUD para a classe Categoria, além de testar os métodos HTTP no Insomnia
+* Até o momento, o projeto conta com organização DER do seu banco de dados, e com os estágios iniciais do sistema Spring - este que já é capaz de conectar-se com o MySQL e tem sua primeira classe model (categoria) já desenvolvida.
 
