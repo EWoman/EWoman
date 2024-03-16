@@ -10,7 +10,7 @@
 Desenvolvimento do projeto Spring EWoman. O com.generation.ewoman trabalha a conexão com o banco de dados MySQL e sua primeira classe model (categoria).
 O projeto já é capaz de executar seu database e tabela de categorias.
 
-## <p><img src="https://i.imgur.com/OT1B2Qy.gif" width="28" height="28">Funcionalidades do Projeto</p> 
+## <p><img src="https://i.imgur.com/OT1B2Qy.gif" width="30" height="30">Funcionalidades do Projeto</p> 
 * <b>categoria </b>: Classe model, responsável por abrigar os atributos da tabela de categoria (tb_categoria) no banco de dados (db_ewoman).
 * <b>id </b>: Chave primária da tabela, é o identificador único de cada categoria.
 * <b>nome_categoria</b>: Atributo que associa um nome a cada id/categoria.
@@ -19,10 +19,10 @@ O projeto já é capaz de executar seu database e tabela de categorias.
 * <b>application.properties</b>: Propriedades de criação do banco de dados - db_ewoman. Estabelece a conexão MySQL.
 * <b>EWomanApplication.java</b>: Ponto de entrada para a aplicação.
 
-## :wrench: Tecnologias utilizadas
+## <img src="https://i.imgur.com/AyGv01f.gif" width="30" height="30"> Tecnologias utilizadas
 * Spring Boot, Spring Data JPA, MySQL Connector/J, Hibernate;
 
-## <img src="https://i.imgur.com/YMtRdEm.gif" width="28" height="28"> Rodando o projeto
+## <img src="https://i.imgur.com/YMtRdEm.gif" width="30" height="30"> Rodando o projeto
 Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
 ```
 git clone https://github.com/EWoman/EWoman
