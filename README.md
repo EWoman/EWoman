@@ -10,7 +10,7 @@
 Desenvolvimento do projeto Spring EWoman. O com.generation.ewoman trabalha a conexão com o banco de dados MySQL e sua primeira classe model (categoria).
 O projeto já é capaz de executar seu database e tabela de categorias.
 
-## <p><img src="https://i.imgur.com/OT1B2Qy.gif" width="28" height="28">Funcionalidades do Projeto</p> 
+## <div><img src="https://i.imgur.com/OT1B2Qy.gif" width="28" height="28">Funcionalidades do Projeto</div> 
 * <b>categoria </b>: Classe model, responsável por abrigar os atributos da tabela de categoria (tb_categoria) no banco de dados (db_ewoman).
 * <b>id </b>: Chave primária da tabela, é o identificador único de cada categoria.
 * <b>nome_categoria</b>: Atributo que associa um nome a cada id/categoria.
