@@ -22,7 +22,7 @@ O projeto já é capaz de executar seu database e tabela de categorias.
 ## :wrench: Tecnologias utilizadas
 * Spring Boot, Spring Data JPA, MySQL Connector/J, Hibernate;
 
-## :rocket: Rodando o projeto
+## <img src="https://i.imgur.com/YMtRdEm.gif" width="28" height="28"> Rodando o projeto
 Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
 ```
 git clone https://github.com/EWoman/EWoman
