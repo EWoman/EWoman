@@ -24,7 +24,7 @@ O projeto já é capaz de executar seu database e tabela de categorias.
 ## <img align="center" src="https://i.imgur.com/AyGv01f.gif" width="28" height="28"> Tecnologias utilizadas
 * Spring Boot, Spring Data JPA, MySQL Connector/J, Hibernate;
 
-## <img align="center" src="https://i.imgur.com/3i8cFcc.gif" width="28" height="28"> Rodando o projeto
+## <img align="center" src="https://i.imgur.com/ZqPcvyq.gif" width="28" height="28"> Rodando o projeto
 Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
 ```
 git clone https://github.com/EWoman/EWoman
